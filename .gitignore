@@ -1,0 +1,6 @@
+build/
+practice
+practice-log.txt
+*.o
+*.out
+.DS_Store
